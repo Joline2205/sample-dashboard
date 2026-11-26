@@ -4,6 +4,8 @@ I built this Google Sheets dashboard to compare competitor pricing across produc
 
 **[View the sample dashboard (Nov 26, 2026)](https://docs.google.com/spreadsheets/d/15208kfswgQp7cq5RDeSg0H9LfT8nIYURunnKdPYGnog/edit?usp=sharing)**
 
+[Read the pricing review skill](skills/peer-pricing-review/SKILL.md)
+
 ## What to explore
 
 - **Summary** shows pay-as-you-go pricing across competing products.
